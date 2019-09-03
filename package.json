@@ -1,5 +1,5 @@
 {
-  "name": "cordova-plugin-insomnia",
+  "name": "fitatu-cordova-plugin-insomnia",
   "version": "4.3.0",
   "description": "Prevent the screen of the mobile device from falling asleep.",
   "cordova": {
